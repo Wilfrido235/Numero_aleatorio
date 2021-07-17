@@ -3,5 +3,7 @@
     <string name="verdadero">El numero fue Parecido </string>
     <string name="falso">El numero fue falso </string>
     <string name="regresar">REGRESAR</string>
-    <string name="inicio">What the current week number? </string>
+    <string name="inicio">Bienvenido! Ingresa un Numero</string>
+    <string name="ingresaRandom">Escribe rango de Numeros</string>
+
 </resources>
